@@ -16,7 +16,7 @@ and
 
 ```
 brew install portaudio
-brew install brew install blackhole-2ch
+brew install blackhole-2ch
 ```
 
 To get setup run
